@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "8f8808feb36fb84a",
+        "id": "e0e19d3010489b92",
         "type": "tabs",
         "children": [
           {
-            "id": "735a8761fb2bb190",
+            "id": "ea98b7c4c5988ca6",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "グラフビュー"
+              "type": "markdown",
+              "state": {
+                "file": "解析関係でやっておきたいこと.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "解析関係でやっておきたいこと"
             }
           }
         ]
@@ -161,8 +165,23 @@
       "command-palette:コマンドパレットを開く": false
     }
   },
-  "active": "735a8761fb2bb190",
+  "active": "ea98b7c4c5988ca6",
   "lastOpenFiles": [
+    "研究テーマの件.md",
+    "やること.md",
+    "ゲル化剤.md",
+    "FDMNES計算について.md",
+    "Todo.md",
+    "Docker.md",
+    "SP-8打合せ.md",
+    "Todo2.md",
+    "引き継ぎ.md",
+    "解析関係でやっておきたいこと.md",
+    "学会.md",
+    "申請関連.md",
+    "松井先生に聞いておくこと.md",
+    "物理リザバー.md",
+    "面白そうな話.md",
     "Welcome.md"
   ]
 }
