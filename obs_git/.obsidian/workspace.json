@@ -11,10 +11,14 @@
             "id": "735a8761fb2bb190",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "グラフビュー"
+              "type": "markdown",
+              "state": {
+                "file": "SP-8打合せ.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SP-8打合せ"
             }
           }
         ]
@@ -163,6 +167,16 @@
   },
   "active": "735a8761fb2bb190",
   "lastOpenFiles": [
+    "やること.md",
+    "引き継ぎ.md",
+    "学会.md",
+    "申請関連.md",
+    "物理リザバー.md",
+    "面白そうな話.md",
+    "解析関係でやっておきたいこと.md",
+    "研究テーマの件.md",
+    "Todo.md",
+    "Todo2.md",
     "Welcome.md"
   ]
 }
